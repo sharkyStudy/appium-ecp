@@ -1,6 +1,6 @@
 {
   "name": "appium-ecp",
-  "version": "1.0.4",
+  "version": "0.1.0",
   "description": "Client interface for Roku",
   "main": "./build/index.js",
   "scripts": {
@@ -74,7 +74,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-mocha": "^8.1.0",
     "eslint-plugin-promise": "^4.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "mocha": "^8.3.2",
     "pre-commit": "^1.1.3"
   },
