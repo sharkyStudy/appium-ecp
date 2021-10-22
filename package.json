@@ -48,7 +48,7 @@
     "fs": "^0.0.1-security",
     "indigestion": "^0.1.4",
     "jszip": "^3.6.0",
-    "libxmljs2": "^0.26.7",
+    "libxmljs2": "^0.29.0",
     "lodash": "^4.17.11",
     "node-fetch": "^2.6.1",
     "source-map-support": "^0.5.9",
